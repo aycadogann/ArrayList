@@ -1,0 +1,2 @@
+# ArrayList
+ArrayList alıştırmaları yapıldı
